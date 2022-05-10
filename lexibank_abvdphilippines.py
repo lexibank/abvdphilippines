@@ -65,15 +65,16 @@ def get_language_id(wl):
 
 class Dataset(abvd.BVD):
     dir = Path(__file__).parent
-    id = 'abvdoceanic'
+    id = 'abvdphilippines'
     SECTION = 'austronesian'
     
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")"},
-        separators=";/,~",
-        missing_data=('-', ),
-        strip_inside_brackets=True,
-        first_form_only=True,
+        separators="",
+        missing_data=('-',),
+        strip_inside_brackets=False,
+        first_form_only=False,
+        replacements=[],
     )
 
     def __init__(self, concepticon=None, glottolog=None):
