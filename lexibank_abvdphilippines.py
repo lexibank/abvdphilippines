@@ -82,7 +82,6 @@ class Dataset(abvd.BVD):
         self.language_ids = [int(r['ID']) for r in self.languages]
 
     def cmd_makecldf(self, args):
-        args.writer.add_sources(*self.etc_dir.read_bib())
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split('-')[-1] + '_' + slug(c.english),
             lookup_factory=lambda c: c['ID'].split('_')[0]
