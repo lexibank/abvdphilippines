@@ -1,10 +1,21 @@
 # Notes:
 
+## Download
+
+```
+cldfbench download lexibank_abvdphilippines.py
+```
+
+## Make CLDF:
+
+```
+$ cldfbench lexibank.makecldf lexibank_abvdphilippines.py --clts-version=v2.2.0 --glottolog-version=v4.5 --concepticon-version=v2.5.0 
+```
+
+
 ## Making a Nexus File:
 
 You will need to have the lexibank dataset installed. Probably best outside the directory:
-
-
 
 
 ```shell
@@ -13,21 +24,21 @@ python -m venv env
 source ./env/bin/activate
 
 # clone git repository
-git clone https://github.com/lexibank/abvdoceanic
+git clone https://github.com/lexibank/abvdphilippines
 
 # or update repository
-cd abvd_oceanic
+cd abvdphilippines
 git checkout main
 git pull
 cd ..
 
 # install dataset
-cd abvd_oceanic
+cd abvdphilippines
 pip install -e .
 cd ..
 ```
 
-To make a nexus file, use the custom `abvdoceanic.nexus` in cldfbench. The parameters are:
+To make a nexus file, use the custom `abvdphilippines.nexus` in cldfbench. The parameters are:
 
 * --output=/path/to/filename.nex = the output file to write.
 * --ascertainment = add BEASTs ascertainment correction if you want.
@@ -38,10 +49,10 @@ To make a nexus file, use the custom `abvdoceanic.nexus` in cldfbench. The param
 
 ```shell
 # make a nexus file, with combined cognates removed above level 2:
-cldfbench abvdoceanic.nexus --removecombined 2 --output abvdoceanic.nex
+cldfbench abvdphilippines.nexus --removecombined 2 --output abvdoceanic.nex
 
 # ...with per-word ascertainment correction:
-cldfbench abvdoceanic.nexus --ascertainment=word --removecombined 2 --output abvdoceanic.nex
+cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output abvdoceanic.nex
 ````
 
 

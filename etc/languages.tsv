@@ -1,190 +1,217 @@
-ID	Name	Glottocode	author	ISO639P3code	Clade
-5	Bantik	bant1286	L. Theddon	Bantik	Papunesia
-183	Sangir	sang1336	Blust, from: Steller & Aebersold (1959)	Sangir	Papunesia
-445	Sangil, Saragani Islands	sang1337	K. Maryott in Reid (1971)	Sangil	Papunesia
-446	Sangir, Tabukang Dialect	sang1336	A. Maryott in Reid (1971)	Sangir	Papunesia
-1269	Iraya	iray1237	Barbian (1977)	Iraya	Papunesia
-1270	Alangan	alan1249	Barbian (1977)	Alangan	Papunesia
-1271	Tadyawan	tady1237	Barbian (1977)	Tadyawan	Papunesia
-451	Tagbanwa, Kalamian, Coron Island Dialect	cala1258	E. Ruch in Reid (1971)	Calamian Tagbanwa	Papunesia
-1569	Agutyanen	agut1237	Caabay & Melvin (2018)	Agutaynen	Papunesia
-12	Gorontalo (Hulondalo)	goro1259	Hamzah Machmoed	Gorontalo	Papunesia
-13	Hanunóo	hanu1241	Blust, from: Conklin (1953)	Hanunoo	Papunesia
-29	Kaidipang	kaid1239	Hunggu Tadjuddin Usup	Kaidipang	Papunesia
-43	Aklanon - Bisayan	akla1241	Dave Zorc	Aklanon	Papunesia
-47	Bikol (Naga City)	cent2087	Amy V. Daniega	Coastal-Naga Bikol	Papunesia
-86	Maranao	mara1404	McKaughan & Macaraya (1967)	Maranao	Papunesia
-144	Western Bukidnon Manobo	west2555	Lawrence A. Reid	Western Bukidnon Manobo	Papunesia
-153	Cebuano	cebu1242	Gemma Losbaños & Hermelito Go	Cebuano	Papunesia
-193	Hiligaynon	hili1240	Jamaica Salcedo	Hiligaynon	Papunesia
-240	Bolaang Mongondow	mong1342	Blust, from: Dunnebier (1765)	Mongondow	Papunesia
-265	Palawan Batak	bata1301	Lawrence A. Reid	Batak	Papunesia
-277	Tagalog	taga1270	Ted Llamzon	Tagalog	Papunesia
-389	Tagalog	taga1270	My knowledge in Tagalog	Tagalog	Papunesia
-408	Tagalog (Anthony dela Paz)	taga1270	Anthony dela Paz	Tagalog	Papunesia
-412	Batak, Palawan	bata1301	R. Rodda in Reid (1971)	Batak	Papunesia
-415	Binukid	binu1244	U. Post in Reid (1971)	Talaandig-Binukid	Papunesia
-428	Kalagan	kala1388	D. Murray in Reid (1971)	Kalagan	Papunesia
-433	Mamanwa	mama1275	J. & H. Miller in Reid (1971)	Mamanwa	Papunesia
-434	Manobo, Ata (up-river)	atam1240	V. Morey & U. Post in Reid (1971)	Ata Manobo	Papunesia
-435	Manobo, Ata (down-river)	atam1240	V. Morey & U. Post in Reid (1971)	Ata Manobo	Papunesia
-436	Manobo, Dibabawon	diba1242	J. Forster in Reid (1971)	Dibabawon Manobo	Papunesia
-437	Manobo, Ilianen (Kibudtungan Dialect)	ilia1236	J. Shand & H. Wrigglesworth in Reid (1971)	Ilianen Manobo	Papunesia
-438	Manobo, Kalamansig Cotabato (Paril Dialect)	cota1241	E. C. Johnston in Reid (1971)	Cotabato Manobo	Papunesia
-439	Manobo, Sarangani, Kayaponga Dialect	sara1327	C. DuBois in Reid (1971)	Sarangani Manobo	Papunesia
-440	Manobo, Tigwa, Iglogsad Dialect	mati1250	C. Strong in Reid (1971)	Matigsalug Manobo	Papunesia
-441	Manobo, Western Bukidnon	west2555	R.E.Elkins in Reid (1971)	Western Bukidnon Manobo	Papunesia
-442	Mansaka	mans1262	G. Svelmoe in Reid (1971)	Mansaka	Papunesia
-447	Subanun, Sindangan	cent2089	R. Brichoux in Reid (1971)	Central Subanen	Papunesia
-448	Subanon, Siocon	west2557	W. Hall in Reid (1971)	Western Subanon	Papunesia
-450	Tagbanwa, Aborlan Dialect	cent2090	S. Hussey in Reid (1971)	Central Tagbanwa	Papunesia
-452	Tausug, Jolo Dialect	taus1251	S. Ashley in Reid (1971)	Tausug	Papunesia
-458	Iranun	iran1262	Sean Conklin and Mabulmaddin Haji Shaiddin	Iranun	Papunesia
-466	Surigaonon	suri1273	Richard Parker	Surigaonon	Papunesia
-467	Ilonggo	hili1240	Richard Parker	Hiligaynon	Papunesia
-483	Butuanon	butu1244	Vicente de Jesus, Richard Parker, Fr. Joesilo C. Amalla	Butuanon	Papunesia
-494	S.W. Palawano	sout2916	Bill Davis	Southwest Palawano	Papunesia
-513	Waray-Waray	wara1300	Andras Rajki	Waray (Philippines)	Papunesia
-618	Buol	buol1237	Erik Zobel	Buol	Papunesia
-657	Kinaray-a	kina1250	Arnel Genzola	Kinaray-a	Papunesia
-660	Capisano	capi1239	Jose Ricarte	Capiznon	Papunesia
-685	Maguindanaon	magu1243	Robert E. Sullivan	Maguindanao	Papunesia
-687	Romblon	romb1245	Fe Aldave Yap	Romblomanon	Papunesia
-688	Cuyonon	cuyo1237	Fe Aldave Yap	Cuyonon	Papunesia
-708	Bantoanon (Banton)	bant1288	Gordon & Kilgour	Bantoanon	Papunesia
-709	Proto-Bisayan	bisa1268	David Paul Zorc	Bisayan	NA
-710	Bikol (Buhinon)	buhi1243	Kenneth S. Olson, et. al.	Buhi	Papunesia
-722	Bikol (Rinconada)	irig1242	Lobel & Bucad	Iriga Bicolano	Papunesia
-755	Masbatenyo	masb1238	Elmer P. Wolfenden	Masbatenyo	Papunesia
-783	Samar-Leyte	wara1300	Alfonsa E. Tizon	Waray (Philippines)	Papunesia
-788	Marinduque Tagalog	taga1270	Rosa Soberano	Tagalog	Papunesia
-859	Bikol (Bisakol)	cent2087	Roberto Gimoro	Coastal-Naga Bikol	Papunesia
-860	Kagayanen	kaga1256	Multiple contributors from Cagayancillo, Palawan	Kagayanen	Papunesia
-1208	Naga Bikol	cent2087	Geopoet	Coastal-Naga Bikol	Papunesia
-1215	Ponosakan	pono1240	Lobel. 2015	Ponosakan	Papunesia
-1258	Manide	cama1250	Jason Lobel (2010)	Camarines Norte Agta	Papunesia
-1259	Utudnon	bayb1234	Carl Rubino (2005)	Baybayanon	Papunesia
-1261	Umiray Dumaget	umir1236	Ronald Himes (2002)	Umiray Dumaget Agta	Papunesia
-1272	Batangan	buhi1245	Barbian (1977)	Buhid	Papunesia
-1273	Buhid	buhi1245	Barbian (1977)	Buhid	Papunesia
-1274	Hanunoo	hanu1241	Barbian (1977)	Hanunoo	Papunesia
-1275	Ratagnon	rata1245	Barbian (1977)	Ratagnon	Papunesia
-1464	Proto-Subanen	suba1253	Jason Lobel (2013)	Subanen	NA
-1465	Proto-Manobo	mano1276	Richard E. Elkins (1974)	Manobo	NA
-1467	Mindoro Tagalog	taga1270	Native Tagalog speaker	Tagalog	Papunesia
-1546	Proto-Danaw	dana1253	Allison (1979)	Danaw	NA
-1547	Bulalakawnon	bula1256	R David Zorc	Bulalakaw	Papunesia
-1548	Inonhan (Dispoholnon)	disp1238	Summer Institute of Linguistics (unknown authors). 1966. Inonhan (Dispoholnon) available via Zorc, R. David. 1972. Unpublished field notes.	Dispoholnon	Papunesia
-1549	Kamayo	kama1363	Summer Institute of Linguistics (unknown authors). 1966. Kamayo available via Zorc, R. David. 1972. Unpublished field notes.	Kamayo	Papunesia
-1550	Caluyanun (Semirara)	semi1263	Summer Institute of Linguistics (unknown authors). 1966. Caluyanun (Semirara) available via Zorc, R. David. 1972. Unpublished field notes.	Semirara	Papunesia
-1555	Tandaganon (Naturalis)	natu1247	Summer Institute of Linguistics (unknown authors). 1966. Tandaganon (Naturalis) available via Zorc, R. David. 1972. Unpublished field notes.	Naturalis	Papunesia
-1620	Proto-Palawan	pala1354	Thiessen (1980)	Palawanic	NA
-1624	Proto-Gorontalo-Mongondow	goro1257	Usup (1986)	Gorontalo-Mongondow	NA
-1635	Inagta Alabat	alab1246	Lobel et al. 2020.	Alabat Island Agta	Papunesia
-1637	Surigaonon	suri1273	Catharine Elizabeth Laude	Surigaonon	Papunesia
-1638	Western Subanon	west2557	Jernan Combi	Western Subanon	Papunesia
-1641	Manide (Labo)	cama1250	Doroja (2017)	Camarines Norte Agta	Papunesia
-33	Kapampangan	pamp1243	Blust from: Forman (1971), McFarland 1977	Pampanga	Papunesia
-444	Sambal, Botolan	boto1242	C. Huock and H. Minot in Reid (1971)	Botolan Sambal	Papunesia
-686	Sinauna	remo1247	Fe Aldave Yap	Hatang Kayi	Papunesia
-1200	Kapampangan	pamp1243	Eduardo John A. Balatbat	Pampanga	Papunesia
-1257	Ayta Mag-antsi	maga1263	Storck, Kurt and Margaret Storck, compilers	Mag-Anchi Ayta	Papunesia
-1262	Ayta Abellen	aben1249	Stone (2008)	Abenlen Ayta	Papunesia
-1263	Ayta Ambala	amba1267	Stone (2008)	Ambala Ayta	Papunesia
-1264	Ayta Mag-anchi	maga1263	Stone (2008)	Mag-Anchi Ayta	Papunesia
-1265	Bolinao	boli1256	Stone (2008)	Bolinao	Papunesia
-1266	Botolan Sambal	boto1242	Stone (2008)	Botolan Sambal	Papunesia
-1267	Ayta Mag-indi	magi1241	Stone (2008)	Mag-Indi Ayta	Papunesia
-1268	Sambal	tina1248	Stone (2008)	Tinà Sambal	Papunesia
-133	Tboli (Tagabili)	tbol1240	Lawrence A. Reid	Tboli	Papunesia
-291	Koronadal Blaan	koro1310	Savage, T.D. (1986)	Koronadal Blaan	Papunesia
-293	Sarangani Blaan	sara1326	Savage, T.D. (1986)	Sarangani Blaan	Papunesia
-413	Bilaan, Koronadal	koro1310	N. Abrams in Reid (1971)	Koronadal Blaan	Papunesia
-414	Bilaan, Sarangani	sara1326	B. McLachlin & B. Blackburn in Reid (1971)	Sarangani Blaan	Papunesia
-449	Tagabili	tbol1240	V. Forsberg in Reid (1971)	Tboli	Papunesia
-707	Tiruray	tiru1241	Stuart A. Schlegel	Tiruray	Papunesia
-1551	Guiangan (Sirib)	gian1241	Summer Institute of Linguistics (unknown authors). 1966. Guiangan (Sirib) available via Zorc, R. David. 1972. Unpublished field notes.	Giangan	Papunesia
-1552	Guiangan (Baguio)	gian1241	Summer Institute of Linguistics (unknown authors). 1966. Guiangan (Baguio) available via Zorc, R. David. 1972. Unpublished field notes.	Giangan	Papunesia
-157	Itbayaten	ivat1242	Lawrence A. Reid	Itbayat	Papunesia
-248	Iraralay	ivat1242	Tsuchida et al. (1987)	Itbayat	Papunesia
-249	Itbayat	ivat1242	Tsuchida et al. (1987)	Itbayat	Papunesia
-250	Imorod	ivat1242	Tsuchida et al. (1987)	Itbayat	Papunesia
-251	Ivasay	ivat1242	Tsuchida et al. (1987)	Itbayat	Papunesia
-252	Isamorong	ivat1242	Tsuchida et al. (1987)	Itbayat	Papunesia
-254	Yami	yami1254	Ferrell (1969)	Yami	Papunesia
-289	Babuyan	babu1242	Tsuchida et al. (1987)	Babuyan	Papunesia
-335	Yami	yami1254	D. Victoria Rau	Yami	Papunesia
-425	Itbayaten	ivat1242	Y. Yamada in Reid (1971)	Itbayat	Papunesia
-427	Ivatan, Basco Dialect	ivat1242	M. Cottle, V. Larson & L. A. Reid in Reid (1971)	Itbayat	Papunesia
-92	Merina (Malagasy)	meri1243	Blust / Adelaar from Abinal & Malzac (1921), Richardson (1885)	Merina	Africa
-154	Dayak Ngaju	ngaj1237	Max J.R.Turangan	Ngaju	Papunesia
-158	Katingan	ngaj1237	Durdje Durasia	Ngaju	Papunesia
-189	Tunjung	tunj1244	Blust, from Hudson (1967)	Tunjung	Papunesia
-200	Yakan	yaka1277	Blust, from Pack  (1975), Behren (2002), Molony (1969)	Yakan	Papunesia
-215	Ma'anyan	maan1238	Blust, from: Hudson (1967)	Ma'anyan	Papunesia
-360	Dayak Ngaju	ngaj1237	Max Turangan	Ngaju	Papunesia
-443	Samal, Siasi Dialect	cent2092	K. Pallesen in Reid (1971)	Central Sama	Papunesia
-487	Kadorih	otda1235	INAGAKI, Kazuya	Ot Danum	Papunesia
-489	Bajo	indo1317	Chandra Nuraini (field research)	Indonesian Bajau	Papunesia
-490	Inabaknon	inab1237	Fr. Marc R. Jacobson	Inabaknon	Papunesia
-491	Mapun	mapu1244	Mapun-English Dictionary (Collins et al 2001)	Mapun	Papunesia
-619	Bajo (Kolo Bawah)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-620	Bajo (Padei Laut)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-621	Bajo (Kayuadi)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-622	Bajo (Pitulua)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-623	Bajo (Bajoe)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-624	Bajo (Lauru)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-625	Bajo (Moramo)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-626	Bajo (Boepinang)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-627	Bajo (Lakaramba)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-628	Bajo (Kaleroang)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-629	Bajo (Lakonea)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-630	Bajo (Langara Laut)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-631	Bajo (Lapulu)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-632	Bajo (Luwuk)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-633	Bajo (Anaiwoi)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-634	Bajo (Lemo Bajo)	indo1317	Summary of Bajau Lexicostatistics Project (through October 1989)	Indonesian Bajau	Papunesia
-732	Sama (Sibutu)	sout2918	K. J. Allison	Southern Sama	Papunesia
-733	Sama (Pangutaran)	pang1291	Charles Walton, Janice Walton	Pangutaran Sama	Papunesia
-1184	Malagasy (Sakalava)	saka1291	Dahl (1968)	West Malagasy Sakalava	Africa
-1186	Malagasy (Tandroy)	tand1256	Rajaonarimanana & Fee (1996)	Tandroy Malagasy	Africa
-1190	Malagasy (Tanala)	plat1254	Beaujard (1998)	Plateau Malagasy	Africa
-1209	Paser	lawa1257	Hendra	Lawangan	Papunesia
-1466	Proto-Sama-Bajaw	sama1302	Pallesen (1985)	Sama-Bajaw	NA
-1526	Proto Malagasy	mala1537	Sander Adelaar	Malagasic	NA
-1643	Central Sinama	cent2092	Kemp Pallesen	Central Sama	Papunesia
-31	Kakiduge:n Ilongot	ilon1239	Reid (1971)	Ilongot	Papunesia
-36	Bontok, Guina-ang	guin1256	Lawrence A. Reid	Guinaang Bontoc	Papunesia
-279	Ibanag	iban1267	Telan Family	Ibanag	Papunesia
-288	Ilokano	ilok1237	Blust	Iloko	Papunesia
-405	Pangasinan	pang1290	Emerich Daroya	Pangasinan	Papunesia
-409	Agta	cent2084	R. Mayfield in Reid (1971)	Central Cagayan Agta	Papunesia
-410	Atta, Pamplona	pamp1244	C. Whittle & R. Lusted in Reid (1971)	Pamplona Atta	Papunesia
-411	Balangaw	bala1310	J. Shetler in Reid (1971)	Balangao	Papunesia
-416	Bontok, Guina-ang	guin1256	Reid (1971)	Guinaang Bontoc	Papunesia
-417	Dumagat, Casiguran	casi1235	T.N. Headland in Reid (1971)	Casiguran-Nagtipunan Agta	Papunesia
-418	Gaddang	gadd1244	L. & M. Troyer in Reid (1971)	Gaddang	Papunesia
-419	Ifugao, Amganad	amga1235	S. Funnell & A. West in Reid (1971)	Amganad Ifugao	Papunesia
-420	Ifugao, Batad	bata1298	L.E. Newell, in Reid (1971)	Batad Ifugao	Papunesia
-421	Ifugao, Bayninan	kele1259	H.C. Conklin in Reid (1971)	Keley-i Kallahan	Papunesia
-422	Ilongot, Kakiduge:n	ilon1239	M. Rosaldo in Reid (1971)	Ilongot	Papunesia
-423	Inibaloi	ibal1244	L. Ballard in Reid (1971)	Ibaloi	Papunesia
-424	Isneg, Dibagat-Kabugao-Isneg	isna1241	G.R. Roe in Reid (1971)	Isnag	Papunesia
-426	Itneg, Binongan	bino1237	C. Walton in Reid (1971)	Binongan Itneg	Papunesia
-429	Kalinga, Guinaang, Lubuagan Dialect	lubu1243	C.R. Geiser in Reid (1971)	Lubuagan Kalinga	Papunesia
-430	Kallahan, Kayapa Proper	kaya1320	P.O. Afable in Reid (1971)	Kayapa Kallahan	Papunesia
-431	Kallahan, Keleyqiq	kele1259	R & L. Hohulin in Reid (1971)	Keley-i Kallahan	Papunesia
-432	Kankanay, Northern	nort2877	D. Hettick in Reid (1971)	Northern Kankanay	Papunesia
-671	Kalinga, Southern	sout2908	Summer Institute of Linguistics (1980)	Bangad	Papunesia
-672	Kalinga, Limos	limo1248	Summer Institute of Linguistics (1981)	Limos Kalinga	Papunesia
-673	Bontok, Eastern	cent2292	Summer Institute of Linguistics (1981)	Central Bontoc	Papunesia
-678	Itawis	itaw1240	Tharp & Natividad (1976)	Itawit	Papunesia
-679	Ibaloi	ibal1244	Anton, Sofia Olga	Ibaloi	Papunesia
-681	Kankanaey	kank1243	Janet Allen	Kankanaey	Papunesia
-711	Kalinga (Minangali)	lowe1412	Kenneth S. Olson, et. al.	Tanudan Kalinga	Papunesia
-713	Yogad	yoga1237	Davis & Mesa	Yogad	Papunesia
-730	Dupaningan Agta	dupa1235	Laura C. Robinson	Dupaninan Agta	Papunesia
-978	Itawis	itaw1240	Norman Barrias	Itawit	Papunesia
-1211	Arta	arta1239	Yukinori Kimoto	Arta	Papunesia
-1278	Malaweg	itaw1240	Laurie Reid	Itawit	Papunesia
-1463	Isinay (Dupax)	isin1239	Sarah Eve Perlawan	Isinai	Papunesia
+ID	Name	Glottocode	author	Clade
+5	Bantik	bant1286	L. Theddon	Bantik
+183	Sangir	sang1336	Blust, from: Steller & Aebersold (1959)	Sangir
+445	Sangil, Saragani Islands	sang1337	K. Maryott in Reid (1971)	Sangil
+446	Sangir, Tabukang Dialect	sang1336	A. Maryott in Reid (1971)	Sangir
+1269	Iraya	iray1237	Barbian (1977)	Iraya
+1270	Alangan	alan1249	Barbian (1977)	Alangan
+1271	Tadyawan	tady1237	Barbian (1977)	Tadyawan
+451	Tagbanwa, Kalamian, Coron Island Dialect	cala1258	E. Ruch in Reid (1971)	Calamian Tagbanwa
+1569	Agutyanen	agut1237	Caabay & Melvin (2018)	Agutaynen
+12	Gorontalo (Hulondalo)	goro1259	Hamzah Machmoed	Gorontalo
+13	Hanunóo	hanu1241	Blust, from: Conklin (1953)	Hanunoo
+29	Kaidipang	kaid1239	Hunggu Tadjuddin Usup	Kaidipang
+43	Aklanon - Bisayan	akla1241	Dave Zorc	Aklanon
+47	Bikol (Naga City)	cent2087	Amy V. Daniega	Coastal-Naga Bikol
+86	Maranao	mara1404	McKaughan & Macaraya (1967)	Maranao
+144	Western Bukidnon Manobo	west2555	Lawrence A. Reid	Western Bukidnon Manobo
+153	Cebuano	cebu1242	Gemma Losbaños & Hermelito Go	Cebuano
+193	Hiligaynon	hili1240	Jamaica Salcedo	Hiligaynon
+240	Bolaang Mongondow	mong1342	Blust, from: Dunnebier (1765)	Mongondow
+265	Palawan Batak	bata1301	Lawrence A. Reid	Batak
+277	Tagalog	taga1270	Ted Llamzon	Tagalog
+389	Tagalog	taga1270	My knowledge in Tagalog	Tagalog
+408	Tagalog (Anthony dela Paz)	taga1270	Anthony dela Paz	Tagalog
+412	Batak, Palawan	bata1301	R. Rodda in Reid (1971)	Batak
+415	Binukid	binu1244	U. Post in Reid (1971)	Talaandig-Binukid
+428	Kalagan	kala1388	D. Murray in Reid (1971)	Kalagan
+433	Mamanwa	mama1275	J. & H. Miller in Reid (1971)	Mamanwa
+434	Manobo, Ata (up-river)	atam1240	V. Morey & U. Post in Reid (1971)	Ata Manobo
+435	Manobo, Ata (down-river)	atam1240	V. Morey & U. Post in Reid (1971)	Ata Manobo
+436	Manobo, Dibabawon	diba1242	J. Forster in Reid (1971)	Dibabawon Manobo
+437	Manobo, Ilianen (Kibudtungan Dialect)	ilia1236	J. Shand & H. Wrigglesworth in Reid (1971)	Ilianen Manobo
+438	Manobo, Kalamansig Cotabato (Paril Dialect)	cota1241	E. C. Johnston in Reid (1971)	Cotabato Manobo
+439	Manobo, Sarangani, Kayaponga Dialect	sara1327	C. DuBois in Reid (1971)	Sarangani Manobo
+440	Manobo, Tigwa, Iglogsad Dialect	mati1250	C. Strong in Reid (1971)	Matigsalug Manobo
+441	Manobo, Western Bukidnon	west2555	R.E.Elkins in Reid (1971)	Western Bukidnon Manobo
+442	Mansaka	mans1262	G. Svelmoe in Reid (1971)	Mansaka
+447	Subanun, Sindangan	cent2089	R. Brichoux in Reid (1971)	Central Subanen
+448	Subanon, Siocon	west2557	W. Hall in Reid (1971)	Western Subanon
+450	Tagbanwa, Aborlan Dialect	cent2090	S. Hussey in Reid (1971)	Central Tagbanwa
+452	Tausug, Jolo Dialect	taus1251	S. Ashley in Reid (1971)	Tausug
+458	Iranun	iran1262	Sean Conklin and Mabulmaddin Haji Shaiddin	Iranun
+466	Surigaonon	suri1273	Richard Parker	Surigaonon
+467	Ilonggo	hili1240	Richard Parker	Hiligaynon
+483	Butuanon	butu1244	Vicente de Jesus, Richard Parker, Fr. Joesilo C. Amalla	Butuanon
+494	S.W. Palawano	sout2916	Bill Davis	Southwest Palawano
+513	Waray-Waray	wara1300	Andras Rajki	Waray (Philippines)
+618	Buol	buol1237	Erik Zobel	Buol
+657	Kinaray-a	kina1250	Arnel Genzola	Kinaray-a
+660	Capisano	capi1239	Jose Ricarte	Capiznon
+685	Maguindanaon	magu1243	Robert E. Sullivan	Maguindanao
+687	Romblon	romb1245	Fe Aldave Yap	Romblomanon
+688	Cuyonon	cuyo1237	Fe Aldave Yap	Cuyonon
+708	Bantoanon (Banton)	bant1288	Gordon & Kilgour	Bantoanon
+709	Proto-Bisayan	bisa1268	David Paul Zorc	Bisayan
+710	Bikol (Buhinon)	buhi1243	Kenneth S. Olson, et. al.	Buhi
+722	Bikol (Rinconada)	irig1242	Lobel & Bucad	Iriga Bicolano
+755	Masbatenyo	masb1238	Elmer P. Wolfenden	Masbatenyo
+783	Samar-Leyte	wara1300	Alfonsa E. Tizon	Waray (Philippines)
+788	Marinduque Tagalog	taga1270	Rosa Soberano	Tagalog
+859	Bikol (Bisakol)	cent2087	Roberto Gimoro	Coastal-Naga Bikol
+860	Kagayanen	kaga1256	Multiple contributors from Cagayancillo, Palawan	Kagayanen
+1208	Naga Bikol	cent2087	Geopoet	Coastal-Naga Bikol
+1215	Ponosakan	pono1240	Lobel. 2015	Ponosakan
+1258	Manide	cama1250	Jason Lobel (2010)	Camarines Norte Agta
+1259	Utudnon	bayb1234	Carl Rubino (2005)	Baybayanon
+1261	Umiray Dumaget	umir1236	Ronald Himes (2002)	Umiray Dumaget Agta
+1272	Batangan	buhi1245	Barbian (1977)	Buhid
+1273	Buhid	buhi1245	Barbian (1977)	Buhid
+1274	Hanunoo	hanu1241	Barbian (1977)	Hanunoo
+1275	Ratagnon	rata1245	Barbian (1977)	Ratagnon
+1464	Proto-Subanen	suba1253	Jason Lobel (2013)	Subanen
+1465	Proto-Manobo	mano1276	Richard E. Elkins (1974)	Manobo
+1467	Mindoro Tagalog	taga1270	Native Tagalog speaker	Tagalog
+1546	Proto-Danaw	dana1253	Allison (1979)	Danaw
+1547	Bulalakawnon	bula1256	R David Zorc	Bulalakaw
+1548	Inonhan (Dispoholnon)	disp1238	Summer Institute of Linguistics (unknown authors). 1966. Inonhan (Dispoholnon) available via Zorc, R. David. 1972. Unpublished field notes.	Dispoholnon
+1549	Kamayo	kama1363	Summer Institute of Linguistics (unknown authors). 1966. Kamayo available via Zorc, R. David. 1972. Unpublished field notes.	Kamayo
+1550	Caluyanun (Semirara)	semi1263	Summer Institute of Linguistics (unknown authors). 1966. Caluyanun (Semirara) available via Zorc, R. David. 1972. Unpublished field notes.	Semirara
+1555	Tandaganon (Naturalis)	natu1247	Summer Institute of Linguistics (unknown authors). 1966. Tandaganon (Naturalis) available via Zorc, R. David. 1972. Unpublished field notes.	Naturalis
+1620	Proto-Palawan	pala1354	Thiessen (1980)	Palawanic
+1624	Proto-Gorontalo-Mongondow	goro1257	Usup (1986)	Gorontalo-Mongondow
+1635	Inagta Alabat	alab1246	Lobel et al. 2020.	Alabat Island Agta
+1637	Surigaonon	suri1273	Catharine Elizabeth Laude	Surigaonon
+1638	Western Subanon	west2557	Jernan Combi	Western Subanon
+1641	Manide (Labo)	cama1250	Doroja (2017)	Camarines Norte Agta
+33	Kapampangan	pamp1243	Blust from: Forman (1971), McFarland 1977	Pampanga
+444	Sambal, Botolan	boto1242	C. Huock and H. Minot in Reid (1971)	Botolan Sambal
+686	Sinauna	remo1247	Fe Aldave Yap	Hatang Kayi
+1200	Kapampangan	pamp1243	Eduardo John A. Balatbat	Pampanga
+1257	Ayta Mag-antsi	maga1263	Storck, Kurt and Margaret Storck, compilers	Mag-Anchi Ayta
+1262	Ayta Abellen	aben1249	Stone (2008)	Abenlen Ayta
+1263	Ayta Ambala	amba1267	Stone (2008)	Ambala Ayta
+1264	Ayta Mag-anchi	maga1263	Stone (2008)	Mag-Anchi Ayta
+1265	Bolinao	boli1256	Stone (2008)	Bolinao
+1266	Botolan Sambal	boto1242	Stone (2008)	Botolan Sambal
+1267	Ayta Mag-indi	magi1241	Stone (2008)	Mag-Indi Ayta
+1268	Sambal	tina1248	Stone (2008)	Tinà Sambal
+133	Tboli (Tagabili)	tbol1240	Lawrence A. Reid	Tboli
+291	Koronadal Blaan	koro1310	Savage, T.D. (1986)	Koronadal Blaan
+293	Sarangani Blaan	sara1326	Savage, T.D. (1986)	Sarangani Blaan
+413	Bilaan, Koronadal	koro1310	N. Abrams in Reid (1971)	Koronadal Blaan
+414	Bilaan, Sarangani	sara1326	B. McLachlin & B. Blackburn in Reid (1971)	Sarangani Blaan
+449	Tagabili	tbol1240	V. Forsberg in Reid (1971)	Tboli
+707	Tiruray	tiru1241	Stuart A. Schlegel	Tiruray
+1551	Guiangan (Sirib)	gian1241	Summer Institute of Linguistics (unknown authors). 1966. Guiangan (Sirib) available via Zorc, R. David. 1972. Unpublished field notes.	Giangan
+1552	Guiangan (Baguio)	gian1241	Summer Institute of Linguistics (unknown authors). 1966. Guiangan (Baguio) available via Zorc, R. David. 1972. Unpublished field notes.	Giangan
+157	Itbayaten	ivat1242	Lawrence A. Reid	Itbayat
+248	Iraralay	ivat1242	Tsuchida et al. (1987)	Itbayat
+249	Itbayat	ivat1242	Tsuchida et al. (1987)	Itbayat
+250	Imorod	ivat1242	Tsuchida et al. (1987)	Itbayat
+251	Ivasay	ivat1242	Tsuchida et al. (1987)	Itbayat
+252	Isamorong	ivat1242	Tsuchida et al. (1987)	Itbayat
+254	Yami	yami1254	Ferrell (1969)	Yami
+289	Babuyan	babu1242	Tsuchida et al. (1987)	Babuyan
+335	Yami	yami1254	D. Victoria Rau	Yami
+425	Itbayaten	ivat1242	Y. Yamada in Reid (1971)	Itbayat
+427	Ivatan, Basco Dialect	ivat1242	M. Cottle, V. Larson & L. A. Reid in Reid (1971)	Itbayat
+31	Kakiduge:n Ilongot	ilon1239	Reid (1971)	Ilongot
+36	Bontok, Guina-ang	guin1256	Lawrence A. Reid	Guinaang Bontoc
+279	Ibanag	iban1267	Telan Family	Ibanag
+288	Ilokano	ilok1237	Blust	Iloko
+405	Pangasinan	pang1290	Emerich Daroya	Pangasinan
+409	Agta	cent2084	R. Mayfield in Reid (1971)	Central Cagayan Agta
+410	Atta, Pamplona	pamp1244	C. Whittle & R. Lusted in Reid (1971)	Pamplona Atta
+411	Balangaw	bala1310	J. Shetler in Reid (1971)	Balangao
+416	Bontok, Guina-ang	guin1256	Reid (1971)	Guinaang Bontoc
+417	Dumagat, Casiguran	casi1235	T.N. Headland in Reid (1971)	Casiguran-Nagtipunan Agta
+418	Gaddang	gadd1244	L. & M. Troyer in Reid (1971)	Gaddang
+419	Ifugao, Amganad	amga1235	S. Funnell & A. West in Reid (1971)	Amganad Ifugao
+420	Ifugao, Batad	bata1298	L.E. Newell, in Reid (1971)	Batad Ifugao
+421	Ifugao, Bayninan	kele1259	H.C. Conklin in Reid (1971)	Keley-i Kallahan
+422	Ilongot, Kakiduge:n	ilon1239	M. Rosaldo in Reid (1971)	Ilongot
+423	Inibaloi	ibal1244	L. Ballard in Reid (1971)	Ibaloi
+424	Isneg, Dibagat-Kabugao-Isneg	isna1241	G.R. Roe in Reid (1971)	Isnag
+426	Itneg, Binongan	bino1237	C. Walton in Reid (1971)	Binongan Itneg
+429	Kalinga, Guinaang, Lubuagan Dialect	lubu1243	C.R. Geiser in Reid (1971)	Lubuagan Kalinga
+430	Kallahan, Kayapa Proper	kaya1320	P.O. Afable in Reid (1971)	Kayapa Kallahan
+431	Kallahan, Keleyqiq	kele1259	R & L. Hohulin in Reid (1971)	Keley-i Kallahan
+432	Kankanay, Northern	nort2877	D. Hettick in Reid (1971)	Northern Kankanay
+671	Kalinga, Southern	sout2908	Summer Institute of Linguistics (1980)	Bangad
+672	Kalinga, Limos	limo1248	Summer Institute of Linguistics (1981)	Limos Kalinga
+673	Bontok, Eastern	cent2292	Summer Institute of Linguistics (1981)	Central Bontoc
+678	Itawis	itaw1240	Tharp & Natividad (1976)	Itawit
+679	Ibaloi	ibal1244	Anton, Sofia Olga	Ibaloi
+681	Kankanaey	kank1243	Janet Allen	Kankanaey
+711	Kalinga (Minangali)	lowe1412	Kenneth S. Olson, et. al.	Tanudan Kalinga
+713	Yogad	yoga1237	Davis & Mesa	Yogad
+730	Dupaningan Agta	dupa1235	Laura C. Robinson	Dupaninan Agta
+978	Itawis	itaw1240	Norman Barrias	Itawit
+1211	Arta	arta1239	Yukinori Kimoto	Arta
+1278	Malaweg	itaw1240	Laurie Reid	Itawit
+1463	Isinay (Dupax)	isin1239	Sarah Eve Perlawan	Isinai
+1553	Inati (Hamtic)	atii1237	Hsiu, Andrew. 2018. Inati word lists. m.s.	Ati
+1554	Inati (Jordan, Guimaras)	atii1237	Hsiu, Andrew. 2018. Inati word lists. m.s.	Ati
+1260	Inati (Nagpana)	atii1237	Pennoyer (1987)	Ati
+1328	Paiwan (Tjatjigel Egli)	paiw1248	Hans Egli, 2002, Paiwanwörterbuch. Harrassowitz	Paiwan
+138	Tsou T63	tsou1248	Blust, from: Tung (1963)	Tsouic
+1516	Siraya A	sira1267	Adelaar, Alexander, 2011	East Formosan
+1517	Siraya UM (Utrecht Manuscript) dialect	sira1267	C. J. Van der Vlis, 1842, Formosaanse woordenlijst	East Formosan
+1519	Siraya Gospel dialect	sira1267	Adelaar, Alexander 2011	East Formosan
+177	Paiwan (Kulalao F82)	paiw1248	Ferrell (1982)	Paiwan
+202	Bunun F69, Southern	bunu1267	Ferrell (1969)	Bunun
+203	Kanakanabu F69	kana1286	Ferrell (1969)	Tsouic
+241	Thao B96	thao1240	Blust	Western Plains
+255	Atayal - Squliq F69	atay1247	Ferrell (1969)	Atayalic
+256	Atayal - C'uli' F69 (Bandai)	atay1247	Ferrell (1969)	Atayalic
+257	Favorlang F69	babu1240	Ferrell (1969)	Western Plains
+260	Kavalan F69	kava1241	Ferrell (1969)	East Formosan
+266	Pazih F69	kulo1237	Ferrell (1969)	Northwest Formosan
+271	Puyuma (Chihpen F69)	puyu1239	Ferrell (1969)	Puyuma
+272	Rukai (Budai F69)	ruka1240	Ferrell (1969)	Rukai
+273	Saaroa F69	saar1237	Ferrell (1969)	Tsouic
+274	Saisiyat F69	sais1237	Ferrell (1969)	Northwest Formosan
+275	Seediq F69 (Sakura)	taro1264	Ferrell (1969)	Atayalic
+276	Siraya F69	sira1267	Ferrell (1969)	East Formosan
+350	Amis (Central)	amis1246	R. Blust, Dorinda Liu	East Formosan
+369	Basay TsYM91	basa1287	Laurent Sagart	East Formosan
+635	Babuza Ts82	babu1240	Tsuchida (1982)	Western Plains
+636	Hoanya Ts82	papo1239	Tsuchida (1982)	Western Plains
+637	Papora Ts82	papo1239	Tsuchida (1982)	Western Plains
+638	Taokas Ts82	babu1240	Tsuchida (1982)	Western Plains
+720	Kavalan LTs	kava1241	Paul Jen-kuei Li	East Formosan
+726	Bunun (Takituduh L88)	bunu1267	Paul Jen-kuei Li	Bunun
+742	Atayal - C'uli' L04 (Mayrinax)	atay1247	Paul Jen-kuei Li	Atayalic
+759	Puyuma (Nanwang Cq)	puyu1239	Josiane Cauquelin	Puyuma
+760	Pazih LTs (Auran)	kulo1237	Paul Jen-kuei Li, Shigeru Tsuchida	Northwest Formosan
+799	Amis (Fata'an)	amis1246	Li (2004)	East Formosan
+800	Amis (Farang)	amis1246	Li (2004)	East Formosan
+801	Sakizaya	nata1254	Li (2004)	East Formosan
+802	Atayal - C'uli' L04 (Skikun)	atay1247	Li (2004)	Atayalic
+803	Bunun (Takituduh L04)	bunu1267	Li (2004)	Bunun
+804	Bunun (Takbanuaz)	bunu1267	Li (2004)	Bunun
+805	Bunun (Iskubun)	bunu1267	Li (2004)	Bunun
+806	Paiwan (Butanglu L04)	paiw1248	Li (2004)	Paiwan
+807	Paiwan (Stimul L04)	paiw1248	Li (2004)	Paiwan
+808	Paiwan (Tjubar L04)	paiw1248	Li (2004)	Paiwan
+809	Puyuma (Pilam L04)	puyu1239	Li (2004)	Puyuma
+810	Puyuma (Lower Pinlang L04)	puyu1239	Li (2004)	Puyuma
+811	Puyuma (Katipul L04)	puyu1239	Li (2004)	Puyuma
+812	Rukai (Tanan L04)	ruka1240	Li (2004)	Rukai
+813	Rukai (Budai L04)	ruka1240	Li (2004)	Rukai
+814	Rukai (Maga L04)	ruka1240	Li (2004)	Rukai
+815	Rukai (Tona)	ruka1240	Li (2004)	Rukai
+816	Rukai (Mantauran L04)	ruka1240	Li (2004)	Rukai
+817	Saisiyat L04 (Tungho)	sais1237	Li (2004)	Northwest Formosan
+818	Saisiyat L04 (Ta'ai)	sais1237	Li (2004)	Northwest Formosan
+819	Atayal - Squliq L04	atay1247	Li (2004)	Atayalic
+820	Seediq L04 (Paran)	taro1264	Li (2004)	Atayalic
+821	Seediq L04 (Toda)	taro1264	Li (2004)	Atayalic
+822	Seediq L04 (Hecuo)	taro1264	Li (2004)	Atayalic
+823	Seediq L04 (Truku)	taro1264	Li (2004)	Atayalic
+824	Tsou (Duhtu L04)	tsou1248	Li (2004)	Tsouic
+825	Kanakanabu L04	kana1286	Li (2004)	Tsouic
+826	Saaroa L04	saar1237	Li (2004)	Tsouic
+831	Favorlang OL03	babu1240	Naoyoshi Ogawa	Western Plains
+832	Basay L04	basa1287	Paul Jen-kuei Li	East Formosan
