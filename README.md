@@ -1,5 +1,7 @@
 # CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020 focusing on Philippine languages
 
+[![CLDF validation](https://github.com/SimonGreenhill/abvd_philippines/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_philippines/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -21,11 +23,22 @@ Conceptlists in Concepticon:
 
 # Notes:
 
+## Download
+
+```
+cldfbench download lexibank_abvdphilippines.py
+```
+
+## Make CLDF:
+
+```
+$ cldfbench lexibank.makecldf lexibank_abvdphilippines.py --clts-version=v2.2.0 --glottolog-version=v4.5 --concepticon-version=v2.5.0 
+```
+
+
 ## Making a Nexus File:
 
 You will need to have the lexibank dataset installed. Probably best outside the directory:
-
-
 
 
 ```shell
@@ -34,21 +47,21 @@ python -m venv env
 source ./env/bin/activate
 
 # clone git repository
-git clone https://github.com/lexibank/abvdoceanic
+git clone https://github.com/lexibank/abvdphilippines
 
 # or update repository
-cd abvd_oceanic
+cd abvdphilippines
 git checkout main
 git pull
 cd ..
 
 # install dataset
-cd abvd_oceanic
+cd abvdphilippines
 pip install -e .
 cd ..
 ```
 
-To make a nexus file, use the custom `abvdoceanic.nexus` in cldfbench. The parameters are:
+To make a nexus file, use the custom `abvdphilippines.nexus` in cldfbench. The parameters are:
 
 * --output=/path/to/filename.nex = the output file to write.
 * --ascertainment = add BEASTs ascertainment correction if you want.
@@ -59,10 +72,10 @@ To make a nexus file, use the custom `abvdoceanic.nexus` in cldfbench. The param
 
 ```shell
 # make a nexus file, with combined cognates removed above level 2:
-cldfbench abvdoceanic.nexus --removecombined 2 --output abvdoceanic.nex
+cldfbench abvdphilippines.nexus --removecombined 2 --output abvdoceanic.nex
 
 # ...with per-word ascertainment correction:
-cldfbench abvdoceanic.nexus --ascertainment=word --removecombined 2 --output abvdoceanic.nex
+cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output abvdoceanic.nex
 ````
 
 
@@ -73,17 +86,24 @@ cldfbench abvdoceanic.nexus --ascertainment=word --removecombined 2 --output abv
 ## Statistics
 
 
+[![CLDF validation](https://github.com/SimonGreenhill/abvd_philippines/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_philippines/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 80%](https://img.shields.io/badge/BIPA-80%25-yellow.svg "BIPA: 80%")
+![CLTS SoundClass: 80%](https://img.shields.io/badge/CLTS%20SoundClass-80%25-yellow.svg "CLTS SoundClass: 80%")
 
-- **Varieties:** 189
+- **Varieties:** 210
 - **Concepts:** 210
-- **Lexemes:** 39,246
-- **Sources:** 105
-- **Synonymy:** 1.15
-- **Cognacy:** 33,967 cognates in 2,959 cognate sets (169 singletons)
-- **Cognate Diversity:** 0.07
+- **Lexemes:** 46,360
+- **Sources:** 92
+- **Synonymy:** 1.24
+- **Cognacy:** 43,389 cognates in 4,758 cognate sets (201 singletons)
+- **Cognate Diversity:** 0.10
+- **Invalid lexemes:** 0
+- **Tokens:** 264,765
+- **Segments:** 249 (50 BIPA errors, 50 CTLS sound class errors, 199 CLTS modified)
+- **Inventory size (avg):** 34.04
 
 # Contributors
 

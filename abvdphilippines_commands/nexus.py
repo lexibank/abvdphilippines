@@ -2,7 +2,7 @@
 Write nexus file.
 """
 from pathlib import Path
-from lexibank_abvdphilippines import Dataset as Philippines
+from abvdphilippines import Dataset as LexibankDataset
 from nexusmaker import load_cldf
 from nexusmaker import NexusMaker, NexusMakerAscertained, \
     NexusMakerAscertainedParameters
@@ -10,7 +10,7 @@ from nexusmaker import NexusMaker, NexusMakerAscertained, \
 
 def register(parser):
     parser.add_argument("--output",
-        default="abvdphilippines.nex",
+        default="dataset.nex",
         help="output file name")
     parser.add_argument("--ascertainment",
         default=None,
@@ -23,7 +23,7 @@ def register(parser):
 
 
 def run(args):
-    mdfile = Philippines().cldf_dir / "cldf-metadata.json"
+    mdfile = LexibankDataset().cldf_dir / "cldf-metadata.json"
     records = list(load_cldf(mdfile, table='FormTable'))
     
     args.log.info('%8d records loaded from %s' % (len(records), mdfile))

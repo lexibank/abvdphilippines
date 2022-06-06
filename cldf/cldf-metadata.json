@@ -12,11 +12,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Greenhill et al.'s \"Austronesian Basic Vocabulary Database\" from 2020 focusing on Philippine languages",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/abvd_philippines",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "abvd_philippines",
+            "rdf:about": "https://github.com/SimonGreenhill/abvd_philippines",
             "rdf:type": "prov:Entity",
-            "dc:created": "7bcf878",
+            "dc:created": "d0b70f7",
             "dc:title": "Repository"
         },
         {
@@ -61,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 39246,
+            "dc:extent": 46360,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 189,
+            "dc:extent": 210,
             "tableSchema": {
                 "columns": [
                     {
@@ -286,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 33967,
+            "dc:extent": 43389,
             "tableSchema": {
                 "columns": [
                     {

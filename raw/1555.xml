@@ -442,7 +442,7 @@
 	<item>báːŋgaʔ</item>
 	<annotation>bite</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>85</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -453,7 +453,7 @@
 	<item>supsup(a)</item>
 	<annotation>suck</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -464,7 +464,7 @@
 	<item>talíːŋa</item>
 	<annotation>ear</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -475,7 +475,7 @@
 	<item>naka=batíʔ</item>
 	<annotation>hear</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -513,17 +513,6 @@
 </record>
 
 <record>
-	<id>3213572</id>
-	<word_id>49</word_id>
-	<word>to lie down</word>
-	<item>lie down</item>
-	<annotation>lie down</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3213569</id>
 	<word_id>50</word_id>
 	<word>to dream</word>
@@ -541,7 +530,7 @@
 	<item>ʔiŋkud</item>
 	<annotation>sit; rear end</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>45</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -596,7 +585,7 @@
 	<item>baːtaʔ</item>
 	<annotation>child</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -640,7 +629,7 @@
 	<item>ʔínaʔ</item>
 	<annotation>mother</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -651,7 +640,7 @@
 	<item>ʔámaʔ</item>
 	<annotation>father</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -673,7 +662,7 @@
 	<item>ŋaan</item>
 	<annotation>name</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -684,7 +673,7 @@
 	<item>laʔúŋ</item>
 	<annotation>say/speak</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>32</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -695,7 +684,7 @@
 	<item>bagkut</item>
 	<annotation>tie</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>16</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -706,7 +695,7 @@
 	<item>patáy(a)</item>
 	<annotation>kill</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -714,10 +703,10 @@
 	<id>3213442</id>
 	<word_id>75</word_id>
 	<word>to die, be dead</word>
-	<item>=patáy</item>
+	<item>patáy</item>
 	<annotation>die</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -728,7 +717,7 @@
 	<item>buhíʔ</item>
 	<annotation>live; alive; let loose</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>14,74</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -772,7 +761,7 @@
 	<item>bughaʔ</item>
 	<annotation>split; axe; chop in two</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>102</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -780,10 +769,10 @@
 	<id>3213512</id>
 	<word_id>81</word_id>
 	<word>sharp</word>
-	<item>=háʔit</item>
+	<item>háʔit</item>
 	<annotation>sharp</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -805,7 +794,7 @@
 	<item>kúmus</item>
 	<annotation>squeeze</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>94</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -816,7 +805,7 @@
 	<item>háwid(i)</item>
 	<annotation>hold; take; embrace</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>121</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -835,10 +824,10 @@
 	<id>3213536</id>
 	<word_id>94</word_id>
 	<word>to throw</word>
-	<item>=labak</item>
+	<item>labak</item>
 	<annotation>throw</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>130</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -882,7 +871,7 @@
 	<item>ʔitlug</item>
 	<annotation>egg</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -893,7 +882,7 @@
 	<item>balhi:bu</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -926,7 +915,7 @@
 	<item>ʔunúd</item>
 	<annotation>meat; flesh</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>27</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -959,7 +948,7 @@
 	<item>ʔúud</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1014,7 +1003,7 @@
 	<item>patú</item>
 	<annotation>stone</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1025,7 +1014,7 @@
 	<item>buháŋin</item>
 	<annotation>sand</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1047,7 +1036,7 @@
 	<item>dágat</item>
 	<annotation>sea</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1099,8 +1088,8 @@
 	<id>3213573</id>
 	<word_id>131</word_id>
 	<word>cloud</word>
-	<item>rain cloud</item>
-	<annotation>rain cloud</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1110,8 +1099,8 @@
 	<id>3213574</id>
 	<word_id>131</word_id>
 	<word>cloud</word>
-	<item>white cloud</item>
-	<annotation>white cloud</annotation>
+	<item></item>
+	<annotation></annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1124,7 +1113,7 @@
 	<item>ʔuwáŋ</item>
 	<annotation>rain</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1157,7 +1146,7 @@
 	<item>ma-pásuʔ</item>
 	<annotation>warm; hot</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>26</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1190,7 +1179,7 @@
 	<item>bugʔat</item>
 	<annotation>heavy</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1201,7 +1190,7 @@
 	<item>káːyu</item>
 	<annotation>fire</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1212,7 +1201,7 @@
 	<item>suːnug</item>
 	<annotation>burn; set on fire; singe</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1275,19 +1264,8 @@
 	<id>3213562</id>
 	<word_id>150</word_id>
 	<word>yellow</word>
-	<item>(maraːg)</item>
+	<item>maraːg</item>
 	<annotation>yellow</annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3213575</id>
-	<word_id>151</word_id>
-	<word>green</word>
-	<item>raw/green</item>
-	<annotation>raw/green</annotation>
 	<loan></loan>
 	<cognacy></cognacy>
 	<pmpcognacy></pmpcognacy>
@@ -1300,7 +1278,7 @@
 	<item>dakúʔ (ir)</item>
 	<annotation>big; large</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>22</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1399,7 +1377,7 @@
 	<item>bagʔu</item>
 	<annotation>new; recently</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1410,7 +1388,7 @@
 	<item>madayáw</item>
 	<annotation>good</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>46,120</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1443,7 +1421,7 @@
 	<item>tuːʔig</item>
 	<annotation>year; season/cycle</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>25</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1454,7 +1432,7 @@
 	<item>kinúnʔu</item>
 	<annotation>when?</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10,19</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1465,7 +1443,7 @@
 	<item>kinúnʔu</item>
 	<annotation>when?</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>10,19</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1487,7 +1465,7 @@
 	<item>taás</item>
 	<annotation>above; high</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1498,7 +1476,7 @@
 	<item>ʔiláum</item>
 	<annotation>below; beneath; under</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>20</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1520,7 +1498,7 @@
 	<item>halayóʔ</item>
 	<annotation>far; distant</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,52</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1630,7 +1608,7 @@
 	<item>ʔóːnu</item>
 	<annotation>what?</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2,18</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1641,7 +1619,7 @@
 	<item>sinʔu</item>
 	<annotation>who?</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>14,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1674,7 +1652,7 @@
 	<item>pilá</item>
 	<annotation>how-many/much?</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1685,7 +1663,7 @@
 	<item>díːliʔ</item>
 	<annotation>(negative); not so</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2,38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1696,7 +1674,7 @@
 	<item>ʔiháp</item>
 	<annotation>count; consider</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1729,7 +1707,7 @@
 	<item>tuː</item>
 	<annotation>three</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1740,7 +1718,7 @@
 	<item>ʔupát</item>
 	<annotation>four</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

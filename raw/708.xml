@@ -973,7 +973,7 @@ Sources:
 	<item>berde</item>
 	<annotation>Spanish</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1270,7 +1270,7 @@ Sources:
 	<item>sida</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,31</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

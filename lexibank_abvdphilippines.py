@@ -11,12 +11,26 @@ from pylexibank import FormSpec
 BADWORDS = [
     '8_toturn',
     '10_dirty',
-    '57_husband', # keep 'wife' instead - more languages & fewer 'spouse' terms.
+
+    # keep 'wife' instead - more languages & fewer 'spouse' terms.
+    '57_husband',
+
+    # [LAR] All of the 43 Phil. language forms from PML were provided with the
+    # meaning 'cut(slice meat)', so are not equivalent to 'cut, hack (wood)'.
+    # They have been given cognate counts, however.
+    # SJG: worried about the languages from outside PML though, so better to remove this item
+    '78_tocuthack',
+
+    # MR: hard to code, LS comments that current cognates do not distinguish PMP *belaq and *silaq.
+    '80_tosplit',
+    
+    # MR: problematic
     '93_topoundbeat',
     '152_small',
     '158_narrow',
     '159_wide',
     '171_tohide',
+    '173_at',   # lots of missing Phil. data, comments suggest uncoded for Phil.
     '174_ininside',
     '185_we',
     '190_other',
@@ -70,11 +84,11 @@ class Dataset(abvd.BVD):
     
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")"},
-        separators="",
+        separators=",~",
         missing_data=('-',),
         strip_inside_brackets=False,
         first_form_only=False,
-        replacements=[],
+        replacements=[('(lr)', 'l')],
     )
 
     def __init__(self, concepticon=None, glottolog=None):
@@ -82,6 +96,7 @@ class Dataset(abvd.BVD):
         self.language_ids = [int(r['ID']) for r in self.languages]
 
     def cmd_makecldf(self, args):
+        args.writer.add_sources(*self.etc_dir.read_bib())  # add overall bib
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split('-')[-1] + '_' + slug(c.english),
             lookup_factory=lambda c: c['ID'].split('_')[0]

@@ -225,7 +225,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>agtáy</item>
 	<annotation></annotation>
 	<loan>L</loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,51</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -764,7 +764,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>hámbay</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>171</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -808,7 +808,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>dáyom</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -907,7 +907,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>trabaho</item>
 	<annotation>Spanish</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>103</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -951,7 +951,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>hubág</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -962,7 +962,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>hubág</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>8</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1017,7 +1017,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>búksâ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1028,7 +1028,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>búksɨ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1710,7 +1710,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>berde</item>
 	<annotation>Spanish</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1721,7 +1721,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>maisót</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2348,7 +2348,7 @@ Source: Yap, Fe Aldave. The Tagalog Region: Lexicon of the Languages and Dialect
 	<item>beynte</item>
 	<annotation>Spanish</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

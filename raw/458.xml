@@ -670,7 +670,7 @@ all vowel  e  are realized as schwa</notes>
 	<item>ina'</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,76</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1022,7 +1022,7 @@ all vowel  e  are realized as schwa</notes>
 	<item>g+kalut</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>54</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1154,7 +1154,7 @@ all vowel  e  are realized as schwa</notes>
 	<item>ria</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>85</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1363,7 +1363,7 @@ all vowel  e  are realized as schwa</notes>
 	<item>pedtad</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>22</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1561,7 +1561,7 @@ all vowel  e  are realized as schwa</notes>
 	<item>mateŋgau</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>139</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2314,10 +2314,21 @@ all vowel  e  are realized as schwa</notes>
 </record>
 
 <record>
-	<id>121574</id>
+	<id>3233638</id>
 	<word_id>202</word_id>
 	<word>Six</word>
-	<item>nem/enem</item>
+	<item>nem</item>
+	<annotation></annotation>
+	<loan></loan>
+	<cognacy>1</cognacy>
+	<pmpcognacy></pmpcognacy>
+</record>
+
+<record>
+	<id>3233639</id>
+	<word_id>202</word_id>
+	<word>Six</word>
+	<item>enem</item>
 	<annotation></annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>

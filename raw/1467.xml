@@ -585,7 +585,7 @@
 	<item>madingig</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -596,7 +596,7 @@
 	<item>madinig</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,14</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -651,7 +651,7 @@
 	<item>tumúlog</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -783,7 +783,7 @@
 	<item>iná</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -794,7 +794,7 @@
 	<item>amá</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -915,7 +915,7 @@
 	<item>karáyom</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -970,7 +970,7 @@
 	<item>nakawin</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1036,7 +1036,7 @@
 	<item>patpat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>55</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1124,7 +1124,7 @@
 	<item>mamagâ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1135,7 +1135,7 @@
 	<item>magnána</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1179,7 +1179,7 @@
 	<item>bumilí</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1300,7 +1300,7 @@
 	<item>málipad</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1311,7 +1311,7 @@
 	<item>dagâ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>39</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1322,7 +1322,7 @@
 	<item>karne</item>
 	<annotation>Loaned&lt;Spanish carne&gt;</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1586,7 +1586,7 @@
 	<item>buhángin</item>
 	<annotation>Pronounced: boo HUH ngin</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>34</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1839,7 +1839,7 @@
 	<item>mabigat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1861,7 +1861,7 @@
 	<item>sunúgin</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>21</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1938,7 +1938,7 @@
 	<item>berde</item>
 	<annotation>Loaned&lt;Spanish verde&gt;</annotation>
 	<loan>L</loan>
-	<cognacy></cognacy>
+	<cognacy>x</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2048,7 +2048,7 @@
 	<item>mahiyáin</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,28</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2092,7 +2092,7 @@
 	<item>masamâ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>30</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2136,7 +2136,7 @@
 	<item>umága</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>49</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2147,7 +2147,7 @@
 	<item>taón</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2279,7 +2279,7 @@
 	<item>maláyo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2466,7 +2466,7 @@
 	<item>hindí</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2477,7 +2477,7 @@
 	<item>bilángin</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2521,7 +2521,7 @@
 	<item>ápat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2543,7 +2543,7 @@
 	<item>ánim</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,38</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2598,7 +2598,7 @@
 	<item>dalawampû</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>3,6</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2609,7 +2609,7 @@
 	<item>limampû</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>1,2</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2620,7 +2620,7 @@
 	<item>isang dáan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>49</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2631,7 +2631,7 @@
 	<item>sandáan</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>49</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2642,7 +2642,7 @@
 	<item>isang líbo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2653,7 +2653,7 @@
 	<item>sanlíbo</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>5</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
