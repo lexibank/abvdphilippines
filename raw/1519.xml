@@ -103,7 +103,7 @@
 	<item>i-rua</item>
 	<annotation>'to come. arrive'</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>64</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -177,8 +177,8 @@
 	<id>343147</id>
 	<word_id>18</word_id>
 	<word>breast</word>
-	<item>?</item>
-	<annotation>uho 'to suck (breast)'</annotation>
+	<item>uho</item>
+	<annotation>'to suck (breast)'</annotation>
 	<loan></loan>
 	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>

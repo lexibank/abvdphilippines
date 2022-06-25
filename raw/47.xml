@@ -1304,7 +1304,7 @@
 	<item>sirâ</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>18</cognacy>
+	<cognacy>18,35</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1447,7 +1447,7 @@
 	<item>bulus</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>29</cognacy>
+	<cognacy>77</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1711,7 +1711,7 @@
 	<item>sulu-on</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>100</cognacy>
+	<cognacy>100,101</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1722,7 +1722,7 @@
 	<item>masulô</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>100, 101</cognacy>
+	<cognacy>100,101</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1843,7 +1843,7 @@
 	<item>hali'pót</item>
 	<annotation>(b)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1854,7 +1854,7 @@
 	<item>halaba</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>27</cognacy>
+	<cognacy>27,44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2360,7 +2360,7 @@
 	<item>dai</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>27</cognacy>
+	<cognacy>117</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

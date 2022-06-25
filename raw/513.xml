@@ -1326,7 +1326,7 @@
 	<item>buhat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1348,7 +1348,7 @@
 	<item>buhata</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1359,7 +1359,7 @@
 	<item>magbuhat</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>34</cognacy>
+	<cognacy>1</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2096,7 +2096,7 @@
 	<item>dampóg</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>96</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -2866,7 +2866,7 @@
 	<item>ikáw</item>
 	<annotation>you</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,29</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

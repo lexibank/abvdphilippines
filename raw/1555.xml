@@ -728,7 +728,7 @@
 	<item>káwut</item>
 	<annotation>scratch</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>44</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -816,7 +816,7 @@
 	<item>lubúŋ</item>
 	<annotation>bury/dig</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>72</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1085,28 +1085,6 @@
 </record>
 
 <record>
-	<id>3213573</id>
-	<word_id>131</word_id>
-	<word>cloud</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
-	<id>3213574</id>
-	<word_id>131</word_id>
-	<word>cloud</word>
-	<item></item>
-	<annotation></annotation>
-	<loan></loan>
-	<cognacy></cognacy>
-	<pmpcognacy></pmpcognacy>
-</record>
-
-<record>
 	<id>3213502</id>
 	<word_id>133</word_id>
 	<word>rain</word>
@@ -1289,7 +1267,7 @@
 	<item>gamáy</item>
 	<annotation>small; short; tiny</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>100</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1366,7 +1344,7 @@
 	<item>dáʔan</item>
 	<annotation>old</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>141</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

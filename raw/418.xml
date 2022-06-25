@@ -1006,7 +1006,7 @@
 	<item>mamanok</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy>1,50</cognacy>
+	<cognacy>1,47</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1545,7 +1545,7 @@
 	<item>bibbapaw</item>
 	<annotation>short (person)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>101</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1556,7 +1556,7 @@
 	<item>bibbapaw</item>
 	<annotation>short (object)</annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>101</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 

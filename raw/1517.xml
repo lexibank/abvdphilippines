@@ -107,7 +107,7 @@
 	<item>mapil</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>63</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -250,7 +250,7 @@
 	<item>m-u-mxa</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>146</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -316,7 +316,7 @@
 	<item>taang</item>
 	<annotation></annotation>
 	<loan></loan>
-	<cognacy></cognacy>
+	<cognacy>138</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
@@ -1911,7 +1911,7 @@
 	<item>kaw</item>
 	<annotation>in G dialect this is a nominative suffix</annotation>
 	<loan></loan>
-	<cognacy>1</cognacy>
+	<cognacy>1,29</cognacy>
 	<pmpcognacy></pmpcognacy>
 </record>
 
