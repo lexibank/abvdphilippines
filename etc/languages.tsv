@@ -60,9 +60,7 @@ ID	Name	Glottocode	author	Clade
 859	Bikol (Bisakol)	cent2087	Roberto Gimoro	Coastal-Naga Bikol
 860	Kagayanen	kaga1256	Multiple contributors from Cagayancillo, Palawan	Kagayanen
 1208	Naga Bikol	cent2087	Geopoet	Coastal-Naga Bikol
-1215	Ponosakan	pono1240	Lobel. 2015	Ponosakan
 1258	Manide	cama1250	Jason Lobel (2010)	Camarines Norte Agta
-1259	Utudnon	bayb1234	Carl Rubino (2005)	Baybayanon
 1261	Umiray Dumaget	umir1236	Ronald Himes (2002)	Umiray Dumaget Agta
 1272	Batangan	buhi1245	Barbian (1977)	Buhid
 1273	Buhid	buhi1245	Barbian (1977)	Buhid
@@ -150,16 +148,12 @@ ID	Name	Glottocode	author	Clade
 1260	Inati (Nagpana)	atii1237	Pennoyer (1987)	Ati
 1328	Paiwan (Tjatjigel Egli)	paiw1248	Hans Egli, 2002, Paiwanwörterbuch. Harrassowitz	Paiwan
 138	Tsou T63	tsou1248	Blust, from: Tung (1963)	Tsouic
-1516	Siraya A	sira1267	Adelaar, Alexander, 2011	East Formosan
-1517	Siraya UM (Utrecht Manuscript) dialect	sira1267	C. J. Van der Vlis, 1842, Formosaanse woordenlijst	East Formosan
-1519	Siraya Gospel dialect	sira1267	Adelaar, Alexander 2011	East Formosan
 177	Paiwan (Kulalao F82)	paiw1248	Ferrell (1982)	Paiwan
 202	Bunun F69, Southern	bunu1267	Ferrell (1969)	Bunun
 203	Kanakanabu F69	kana1286	Ferrell (1969)	Tsouic
 241	Thao B96	thao1240	Blust	Western Plains
 255	Atayal - Squliq F69	atay1247	Ferrell (1969)	Atayalic
 256	Atayal - C'uli' F69 (Bandai)	atay1247	Ferrell (1969)	Atayalic
-257	Favorlang F69	babu1240	Ferrell (1969)	Western Plains
 260	Kavalan F69	kava1241	Ferrell (1969)	East Formosan
 266	Pazih F69	kulo1237	Ferrell (1969)	Northwest Formosan
 271	Puyuma (Chihpen F69)	puyu1239	Ferrell (1969)	Puyuma
@@ -167,7 +161,6 @@ ID	Name	Glottocode	author	Clade
 273	Saaroa F69	saar1237	Ferrell (1969)	Tsouic
 274	Saisiyat F69	sais1237	Ferrell (1969)	Northwest Formosan
 275	Seediq F69 (Sakura)	taro1264	Ferrell (1969)	Atayalic
-276	Siraya F69	sira1267	Ferrell (1969)	East Formosan
 350	Amis (Central)	amis1246	R. Blust, Dorinda Liu	East Formosan
 369	Basay TsYM91	basa1287	Laurent Sagart	East Formosan
 635	Babuza Ts82	babu1240	Tsuchida (1982)	Western Plains

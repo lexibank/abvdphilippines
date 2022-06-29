@@ -90,20 +90,20 @@ cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 80%](https://img.shields.io/badge/BIPA-80%25-yellow.svg "BIPA: 80%")
-![CLTS SoundClass: 80%](https://img.shields.io/badge/CLTS%20SoundClass-80%25-yellow.svg "CLTS SoundClass: 80%")
+![BIPA: 81%](https://img.shields.io/badge/BIPA-81%25-yellowgreen.svg "BIPA: 81%")
+![CLTS SoundClass: 81%](https://img.shields.io/badge/CLTS%20SoundClass-81%25-yellowgreen.svg "CLTS SoundClass: 81%")
 
-- **Varieties:** 210
+- **Varieties:** 203
 - **Concepts:** 210
-- **Lexemes:** 46,360
-- **Sources:** 92
-- **Synonymy:** 1.24
-- **Cognacy:** 43,389 cognates in 4,758 cognate sets (201 singletons)
+- **Lexemes:** 44,974
+- **Sources:** 88
+- **Synonymy:** 1.23
+- **Cognacy:** 44,157 cognates in 4,888 cognate sets (230 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 264,765
-- **Segments:** 249 (50 BIPA errors, 50 CTLS sound class errors, 199 CLTS modified)
-- **Inventory size (avg):** 34.04
+- **Tokens:** 256,902
+- **Segments:** 243 (46 BIPA errors, 46 CTLS sound class errors, 197 CLTS modified)
+- **Inventory size (avg):** 33.82
 
 # Contributors
 

@@ -2,10 +2,11 @@
 Write nexus file.
 """
 from pathlib import Path
-from abvdphilippines import Dataset as LexibankDataset
 from nexusmaker import load_cldf
 from nexusmaker import NexusMaker, NexusMakerAscertained, \
     NexusMakerAscertainedParameters
+
+root = Path(__file__).parent.parent
 
 
 def register(parser):
@@ -23,7 +24,7 @@ def register(parser):
 
 
 def run(args):
-    mdfile = LexibankDataset().cldf_dir / "cldf-metadata.json"
+    mdfile = root / 'cldf' / "cldf-metadata.json"
     records = list(load_cldf(mdfile, table='FormTable'))
     
     args.log.info('%8d records loaded from %s' % (len(records), mdfile))
