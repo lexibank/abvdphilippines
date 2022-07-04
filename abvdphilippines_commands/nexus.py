@@ -3,8 +3,8 @@ Write nexus file.
 """
 from pathlib import Path
 from nexusmaker import load_cldf
-from nexusmaker import NexusMaker, NexusMakerAscertained, \
-    NexusMakerAscertainedParameters
+from nexusmaker import NexusMaker, NexusMakerAscertained, NexusMakerAscertainedParameters
+from nexusmaker.tools import remove_combining_cognates
 
 root = Path(__file__).parent.parent
 
@@ -21,6 +21,11 @@ def register(parser):
         default=None,
         type=Path,
         help="filename containing a list of parameters (one per line) to remove")
+    parser.add_argument(
+        "--removecombined",
+        default=None,
+        type=int,
+        help="set level at which to filter combined cognates")
 
 
 def run(args):
@@ -53,5 +58,10 @@ def run(args):
         nex = NexusMakerAscertainedParameters(data=records)
     else:
         raise ValueError("Unknown Ascertainment %s" % args.ascertainment)
+
+    if args.removecombined:
+        nex = remove_combining_cognates(nex, keep=args.removecombined)
+        args.log.info(
+            'removing combined cognates with more than %d components' % args.removecombined)
 
     nex.write(filename=args.output)
