@@ -93,17 +93,17 @@ cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output
 ![BIPA: 81%](https://img.shields.io/badge/BIPA-81%25-yellowgreen.svg "BIPA: 81%")
 ![CLTS SoundClass: 81%](https://img.shields.io/badge/CLTS%20SoundClass-81%25-yellowgreen.svg "CLTS SoundClass: 81%")
 
-- **Varieties:** 205
+- **Varieties:** 204
 - **Concepts:** 210
-- **Lexemes:** 45,459
-- **Sources:** 90
+- **Lexemes:** 45,086
+- **Sources:** 89
 - **Synonymy:** 1.23
-- **Cognacy:** 44,506 cognates in 4,920 cognate sets (226 singletons)
+- **Cognacy:** 44,177 cognates in 4,865 cognate sets (231 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 259,665
-- **Segments:** 244 (46 BIPA errors, 46 CTLS sound class errors, 198 CLTS modified)
-- **Inventory size (avg):** 33.80
+- **Tokens:** 257,733
+- **Segments:** 241 (45 BIPA errors, 45 CTLS sound class errors, 196 CLTS modified)
+- **Inventory size (avg):** 33.73
 
 # Contributors
 

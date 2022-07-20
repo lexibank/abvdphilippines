@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/SimonGreenhill/abvd_philippines",
             "rdf:type": "prov:Entity",
-            "dc:created": "bd1a31b",
+            "dc:created": "09ce93d",
             "dc:title": "Repository"
         },
         {
@@ -62,7 +62,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 45459,
+            "dc:extent": 45086,
             "tableSchema": {
                 "columns": [
                     {
@@ -165,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 205,
+            "dc:extent": 204,
             "tableSchema": {
                 "columns": [
                     {
@@ -287,7 +287,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 44506,
+            "dc:extent": 44177,
             "tableSchema": {
                 "columns": [
                     {
