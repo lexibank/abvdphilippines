@@ -51,11 +51,11 @@ def run(args):
     ))
 
     if args.ascertainment is None:
-        nex = NexusMaker(data=records)
+        nex = NexusMaker(data=records, remove_loans=True, unique_ids=True)
     elif args.ascertainment == 'overall':
-        nex = NexusMakerAscertained(data=records)
+        nex = NexusMakerAscertained(data=records, remove_loans=True, unique_ids=True)
     elif args.ascertainment == 'word':
-        nex = NexusMakerAscertainedParameters(data=records)
+        nex = NexusMakerAscertainedParameters(data=records, remove_loans=True, unique_ids=True)
     else:
         raise ValueError("Unknown Ascertainment %s" % args.ascertainment)
 
