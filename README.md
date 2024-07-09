@@ -5,7 +5,9 @@
 ## How to cite
 
 If you use these data please cite
-- the original source
+- the analysis paper:
+  > King B, Greenhill SJ, Reid LA, Ross M, Walworth M, & Gray R. 2024. Bayesian phylogenetic analysis of Philippine languages supports a rapid migration of Malayo Polynesian languages. Scientific Reports, 14, 14967.
+- the original source:
   > Greenhill, S.J., Blust. R, & Gray, R.D. (2008). The Austronesian Basic Vocabulary Database: From Bioinformatics to Lexomics. Evolutionary Bioinformatics, 4:271-283.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
@@ -14,7 +16,7 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://abvd.shh.mpg.de/austronesian/
+Available online at https://abvd.eva.mpg.de/austronesian/
 
 
 Conceptlists in Concepticon:
@@ -72,10 +74,10 @@ To make a nexus file, use the custom `abvdphilippines.nexus` in cldfbench. The p
 
 ```shell
 # make a nexus file, with combined cognates removed above level 2:
-cldfbench abvdphilippines.nexus --removecombined 2 --output abvdoceanic.nex
+cldfbench abvdphilippines.nexus --removecombined 2 --output abvd_philippines.nex
 
 # ...with per-word ascertainment correction:
-cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output abvdoceanic.nex
+cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output abvd_philippines.nex
 ````
 
 
