@@ -23,7 +23,7 @@ BADWORDS = [
 
     # MR: hard to code, LS comments that current cognates do not distinguish PMP *belaq and *silaq.
     '80_tosplit',
-    
+
     # MR: problematic
     '93_topoundbeat',
     '152_small',
@@ -46,7 +46,6 @@ BADWORDS = [
     '209_onehundred',
     '210_onethousand',
 ]
-
 
 
 def normalize_contributors(l):
@@ -74,21 +73,23 @@ def normalize_names(names):
 @lru_cache(1000)
 def get_language_id(wl):
     return "%s_%d" % (slug(wl.language.name, lowercase=False), int(wl.language.id))
-    
 
 
 class Dataset(abvd.BVD):
     dir = Path(__file__).parent
     id = 'abvdphilippines'
     SECTION = 'austronesian'
-    
+
     form_spec = FormSpec(
         brackets={"[": "]", "{": "}", "(": ")"},
-        separators=",~",
+        separators="/,~",
         missing_data=('-',),
         strip_inside_brackets=False,
         first_form_only=False,
-        replacements=[('(lr)', 'l')],
+        replacements=[
+            ('(lr)', 'l'),
+            (' - las-ay', '')
+            ],
     )
 
     def __init__(self, concepticon=None, glottolog=None):

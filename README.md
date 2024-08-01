@@ -1,13 +1,11 @@
 # CLDF dataset derived from Greenhill et al.'s "Austronesian Basic Vocabulary Database" from 2020 focusing on Philippine languages
 
-[![CLDF validation](https://github.com/SimonGreenhill/abvd_philippines/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_philippines/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/abvd_philippines/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/abvd_philippines/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
 If you use these data please cite
-- the analysis paper:
-  > King B, Greenhill SJ, Reid LA, Ross M, Walworth M, & Gray R. 2024. Bayesian phylogenetic analysis of Philippine languages supports a rapid migration of Malayo Polynesian languages. Scientific Reports, 14, 14967.
-- the original source:
+- the original source
   > Greenhill, S.J., Blust. R, & Gray, R.D. (2008). The Austronesian Basic Vocabulary Database: From Bioinformatics to Lexomics. Evolutionary Bioinformatics, 4:271-283.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
@@ -16,7 +14,7 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://abvd.eva.mpg.de/austronesian/
+Available online at https://abvd.shh.mpg.de/austronesian/
 
 
 Conceptlists in Concepticon:
@@ -74,10 +72,10 @@ To make a nexus file, use the custom `abvdphilippines.nexus` in cldfbench. The p
 
 ```shell
 # make a nexus file, with combined cognates removed above level 2:
-cldfbench abvdphilippines.nexus --removecombined 2 --output abvd_philippines.nex
+cldfbench abvdphilippines.nexus --removecombined 2 --output abvdoceanic.nex
 
 # ...with per-word ascertainment correction:
-cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output abvd_philippines.nex
+cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output abvdoceanic.nex
 ````
 
 
@@ -88,31 +86,38 @@ cldfbench abvdphilippines.nexus --ascertainment=word --removecombined 2 --output
 ## Statistics
 
 
-[![CLDF validation](https://github.com/SimonGreenhill/abvd_philippines/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/abvd_philippines/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/abvd_philippines/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/abvd_philippines/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 81%](https://img.shields.io/badge/BIPA-81%25-yellowgreen.svg "BIPA: 81%")
-![CLTS SoundClass: 81%](https://img.shields.io/badge/CLTS%20SoundClass-81%25-yellowgreen.svg "CLTS SoundClass: 81%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 202
-- **Concepts:** 210
-- **Lexemes:** 44,876
+- **Varieties:** 202 (linked to 126 different Glottocodes)
+- **Concepts:** 210 (linked to 210 different Concepticon concept sets)
+- **Lexemes:** 44,888
 - **Sources:** 87
 - **Synonymy:** 1.23
 - **Cognacy:** 44,015 cognates in 4,865 cognate sets (266 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 256,676
-- **Segments:** 241 (45 BIPA errors, 45 CLTS sound class errors, 196 CLTS modified)
-- **Inventory size (avg):** 33.77
+- **Tokens:** 255,760
+- **Segments:** 213 (0 BIPA errors, 0 CLTS sound class errors, 213 CLTS modified)
+- **Inventory size (avg):** 32.95
 
 # Contributors
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author
+Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author, Editor
+Robert Blust | |                            | Author
+Russell D. Gray | |                            | Author
+Benedict King | |                            | Author
+Lawrence A. Reid | |                            | Author
+Malcolm Ross | |                            | Author
+Mary Walworth | @maryewal |                            | Author
 Johann-Mattis List | @lingulist  | orthography profiles | Other
+Frederic Blum| @FredericBlum  | orthography profiles | Editor
 
 
 

@@ -8,12 +8,38 @@
     "creators": [
         {
             "name": "Simon J. Greenhill"
+        },
+        {
+            "name": "Robert Blust"
+        },
+        {
+            "name": "Russell D. Gray"
+        },
+        {
+            "name": "Benedict King"
+        },
+        {
+            "name": "Lawrence A. Reid"
+        },
+        {
+            "name": "Malcolm Ross"
+        },
+        {
+            "name": "Mary Walworth"
         }
     ],
     "contributors": [
         {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
             "name": "Johann-Mattis List",
             "type": "Other"
+        },
+        {
+            "name": "Frederic Blum",
+            "type": "Editor"
         }
     ],
     "communities": [
