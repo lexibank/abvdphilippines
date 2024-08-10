@@ -22,7 +22,7 @@ def run(args):
         lexemes[r.get_taxon()] += 1
         if r.Cognacy:
             cognates[r.get_taxon()].add(r.Parameter_ID)
-    
+
     np = len(parameters)
     print("\t".join(["Taxon", "Lexemes", "Parameters", "Missing", "Cognates", "PropLexemesWithCognates", "PropParametersWithCognates"]))
     for taxon in sorted(lexemes):

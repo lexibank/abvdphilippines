@@ -6,7 +6,7 @@
     "dc:format": [
         "http://concepticon.clld.org/contributions/Blust-2008-210"
     ],
-    "dc:identifier": "https://abvd.shh.mpg.de/austronesian/",
+    "dc:identifier": "https://abvd.eva.mpg.de/austronesian/",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/abvd_philippines",
             "rdf:type": "prov:Entity",
-            "dc:created": "4a6ca5d",
+            "dc:created": "6ea3ccf",
             "dc:title": "Repository"
         },
         {
