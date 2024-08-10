@@ -10,17 +10,19 @@ root = Path(__file__).parent.parent
 
 
 def register(parser):
-    parser.add_argument("--output",
-        default="dataset.nex",
-        help="output file name")
-    parser.add_argument("--ascertainment",
+    parser.add_argument("--output", default="dataset.nex", help="output file name")
+    parser.add_argument(
+        "--ascertainment",
         default=None,
         choices=[None, 'overall', 'word'],
-        help="set ascertainment mode")
-    parser.add_argument("--filter",
+        help="set ascertainment mode"
+        )
+    parser.add_argument(
+        "--filter",
         default=None,
         type=Path,
-        help="filename containing a list of parameters (one per line) to remove")
+        help="filename containing a list of parameters (one per line) to remove"
+        )
     parser.add_argument(
         "--removecombined",
         default=None,
@@ -31,7 +33,7 @@ def register(parser):
 def run(args):
     mdfile = root / 'cldf' / "cldf-metadata.json"
     records = list(load_cldf(mdfile, table='FormTable'))
-    
+
     args.log.info('%8d records loaded from %s' % (len(records), mdfile))
 
     # run filter if given
@@ -45,7 +47,7 @@ def run(args):
             ))
             if change == 0:
                 args.log.warn("No records removed for parameter %s -- typo?" % param)
-    
+
     args.log.info('%8d records written to nexus %s using ascertainment=%s' % (
         len(records), args.output, args.ascertainment
     ))
